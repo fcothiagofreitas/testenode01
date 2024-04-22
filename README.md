@@ -2,7 +2,7 @@
 
 Este projeto é para fins de estudo e foi desenvolvido como parte de uma etapa do curso de fundamentos do Node.js oferecido pela Rocketseat.
 
-## Sobre o Projeto
+## O Projeto
 
 Este projeto é uma aplicação simples construída usando Node.js. O objetivo principal deste projeto é aplicar e reforçar os conceitos fundamentais do Node.js aprendidos no curso da Rocketseat.
 
